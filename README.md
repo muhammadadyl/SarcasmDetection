@@ -1,7 +1,7 @@
-# Pytorch-Transformers-Classification
+# Twitter Sarcasm Detection Using Transformers
 
 
-This repository is based on the [Pytorch-Transformers](https://github.com/huggingface/pytorch-transformers) library by HuggingFace. It is intended as a starting point for anyone who wishes to use Transformer models in text classification tasks.
+This repository is based on the [Transformers](https://github.com/huggingface/transformers) library by HuggingFace. It is intended as a starting point for anyone who wishes to use Transformer models in text classification tasks.
 
 Table of contents
 =================
@@ -61,7 +61,7 @@ The table below shows the currently available model types and their models. You 
 | DistilBERT   | distilbert | distilbert-base-uncased | 6-layer, 768-hidden, 12-heads, 66M parameters <br>DistilBERT uncased base model |
 | DistilRoBERTa      | distilroberta | distilroberta-base | 6-layer, 768-hidden, 12-heads, 82M parameters <br>DistilRoBERTa-base model. |
 
-Note: DistilRoBERTa is in a soft release as of the day this repo published, to run this model you need to explicilty install Transformer library from Hugging Face's Repository. Installing through pip won't work here.
+Note: DistilRoBERTa is in a soft release as of the day this repo published, to run this model you need to explicitly install Transformer library from Hugging Face's Repository. Installing through pip won't work here.
 
 ### Custom Datasets
 
