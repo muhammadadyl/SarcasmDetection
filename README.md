@@ -83,3 +83,4 @@ The evaluation process in the [run_model.ipynb](run_model.ipynb) notebook output
 ## Acknowledgements
 
 None of this would have been possible without the hard work by the HuggingFace team in developing the [Transformers](https://github.com/huggingface/transformers) library.
+Further, I would also like to thanks Thilina Rajapakse for his [Text Classification Code](https://github.com/ThilinaRajapakse/pytorch-transformers-classification) and [blog](https://towardsdatascience.com/https-medium-com-chaturangarajapakshe-text-classification-with-transformer-models-d370944b50ca)
