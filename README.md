@@ -47,7 +47,7 @@ Files are already available for use in `data/` folder with name `train.csv` and 
 
 Once the download is complete, you can run the [data_prep_sarcasm.ipynb](data_prep_sarcasm.ipynb) notebook to get the data ready for training.
 
-Finally, you can run the [run_model.ipynb](run_model.ipynb) notebook to fine-tune a Transformer model on the Yelp Dataset and evaluate the results.
+Finally, you can run the [run_model.ipynb](run_model.ipynb) notebook to fine-tune a Transformer model on the Twitter Dataset and evaluate the results.
 
 ### Current Pretrained Models
 
